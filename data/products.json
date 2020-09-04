@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "jugos",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 2,
+        "nombre": "cafe",
+        "desc": "jugo de su eleccion",
+        "precio": 15,
+        "categoria": "bebidas calientes",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["americano", "capuchino", "moka", "irlandes"]
+    },
+
+    {
+        "id": 3,
+        "nombre": "agua de sabor",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "bebidas frias",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["sandia", "melon", "limon con chia", "jamaica"]
+    },
+
+    {
+        "id": 4,
+        "nombre": "refresco",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "bebidas frias",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["Coca", "Pepsi", "Yoli", "Sidral"]
+    },
+
+    {
+        "id": 5,
+        "nombre": "te",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "Tisanas",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["frutos rojos", "maracuya", "Detox", "Kiwi-mango"]
+    },
+
+    {
+        "id": 6,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 7,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 8,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 9,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 10,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 11,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    },
+
+    {
+        "id": 12,
+        "nombre": "jugo",
+        "desc": "jugo de su eleccion",
+        "precio": 20,
+        "categoria": "drinks",
+        "img": "img/",
+        "imgs": ["img/", "img/", "img"],
+        "sizes": ["grande", "mediano", "chico"],
+        "sabores": ["verde", "zanahoria", "naranja", "jitomate"]
+    }
+]
